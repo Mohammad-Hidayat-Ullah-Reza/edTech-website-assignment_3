@@ -19,4 +19,7 @@
   .popular__width {
     width: 50%;
   }
+  .questions__width {
+    max-width: 872px;
+  }
 }
