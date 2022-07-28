@@ -2,6 +2,9 @@
   max-width: 528px;
 }
 
+.feedback__heading-width {
+  width: 75%;
+}
 .questions__width {
   max-width: 872px;
 }
@@ -34,6 +37,9 @@
     width: 50%;
   }
   .successful__width-heding-div {
+    width: 50%;
+  }
+  .feedback__heading-width {
     width: 50%;
   }
 }
