@@ -1,7 +1,14 @@
+.join__max-width {
+  max-width: 528px;
+}
+
+.questions__width {
+  max-width: 872px;
+}
+
 .footer__width {
   max-width: 212px;
 }
-
 @media screen and (max-width: 575px) {
   .carousel-item img {
     height: 80vh;
@@ -18,8 +25,5 @@
 @media screen and (min-width: 992px) {
   .popular__width {
     width: 50%;
-  }
-  .questions__width {
-    max-width: 872px;
   }
 }
