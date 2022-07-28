@@ -21,13 +21,19 @@
   .card__max-height {
     max-height: 200px;
   }
+  .successful__width-heding-div {
+    width: 75%;
+  }
 }
 
 @media screen and (min-width: 992px) {
+  .carousel__heading-1 {
+    font-size: 65px;
+  }
   .popular__width {
     width: 50%;
   }
-  .carousel__heading-1 {
-    font-size: 65px;
+  .successful__width-heding-div {
+    width: 50%;
   }
 }
