@@ -5,6 +5,7 @@
 .feedback__heading-width {
   width: 75%;
 }
+
 .questions__width {
   max-width: 872px;
 }
@@ -29,6 +30,20 @@
   }
 }
 
+@media screen and (min-width: 768px) {
+  .explore__img-div {
+    width: 40%;
+    overflow: hidden;
+  }
+  .explore__img {
+    height: 543px;
+    object-fit: cover;
+  }
+  .explore__info-div {
+    width: 60%;
+  }
+}
+
 @media screen and (min-width: 992px) {
   .carousel__heading-1 {
     font-size: 65px;
@@ -36,6 +51,7 @@
   .popular__width {
     width: 50%;
   }
+
   .successful__width-heding-div {
     width: 50%;
   }
